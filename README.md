@@ -1,12 +1,12 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=13F714&background=FF1BD800&center=true&vCenter=true&random=false&width=500&lines=Hi+%2C+I'm+Ken+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=23&duration=5003&pause=1000&color=7B04F7&background=FF537800&center=true&vCenter=true&width=435&lines=Hi+%2C+I%27m+Hove+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  <br><img src="https://github.com/hovetu/hovetu/blob/0f39d77cab87bf5844a7bfc566a6bc8e94684352/assets/gifs/developer.gif" width="450px">
+  <br><img src="https://github.com/LiMaKen/LiMaKen/blob/0f39d77cab87bf5844a7bfc566a6bc8e94684352/assets/gifs/developer.gif" width="450px">
 </p>
 
 <p align="center">
-  <br><img src="https://github.com/hovetu/hovetu/blob/f56bb5ed817e3ec4125fd3b0cf0afa6513517d89/assets/gifs/snake.svg" width="450px">
+  <br><img src="https://github.com/LiMaKen/LiMaKen/blob/f56bb5ed817e3ec4125fd3b0cf0afa6513517d89/assets/gifs/snake.svg" width="450px">
 </p>
  <h2 align="center">⚙️ &nbsp;Skills</h2>
 
@@ -37,8 +37,8 @@
 
 
  <p align="center">
-<a href="https://github.com/hovetu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hovetu&show_icons=true&theme=react&include_all_commits=true&locale=de"/>
+<a href="https://github.com/LiMaKen">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LiMaKen&show_icons=true&theme=react&include_all_commits=true&locale=vi"/>
 </a>
 </p>
 
@@ -47,11 +47,11 @@
 ### <p align="center">👀 &nbsp;Number of visitors</p>
 <br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/hovetu/count.svg" />
+  <img src="https://profile-counter.glitch.me/LiMaKen/count.svg" />
 </p>
 
 <p align="center">
-  <a href="http://forthebadge.com/"><img width="70px"src="https://github.com/hovetu/hovetu/blob/main/assets/gifs/vn.svg"/></a>
+  <a href="http://forthebadge.com/"><img width="70px"src="https://github.com/LiMaKen/LiMaKen/blob/main/assets/gifs/vn.svg"/></a>
 </p>
 
 
