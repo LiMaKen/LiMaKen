@@ -2,6 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=23&duration=5003&pause=1000&color=7B04F7&background=FF537800&center=true&vCenter=true&width=435&lines=Hi+%2C+I%27m+LiMaKen+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 <p align="center">
+   <a href="_blank"><img width="70px"src="https://github.com/LiMaKen/LiMaKen/blob/main/assets/gifs/vn.svg"/></a>
+</p>
+<p align="center">
   <br><img src="https://github.com/LiMaKen/LiMaKen/blob/d3dc2a569a7690590a2518a36599a1e172973b43/assets/gifs/developer.gif" width="450px">
 </p>
 
@@ -15,7 +18,7 @@
   <p align="center">
      <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" alt="C#"/>
      <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
- 
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="40" height="40" alt="JS"/>
   </p> 
   <h3 align="center">❗ &nbsp;Front-End Development</h3> 
 <p align="center">
@@ -56,17 +59,11 @@
         <a style="margin-left: 10px;" target="_blank" href="mailto:">
 		    <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
       </div>
-
-</p>
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-       <img src="https://komarev.com/ghpvc/?username=LiMaKen&color=brightgreen" alt="watching_count" />
 </p>
 
 <p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=LiMaKen&color=brightgreen" alt="watching_count" />
 
-<a href="_blank"><img width="70px"src="https://github.com/LiMaKen/LiMaKen/blob/main/assets/gifs/vn.svg"/></a>
  </p>
 
 
