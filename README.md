@@ -49,7 +49,9 @@
 
 -----
 
-<h3 align="center" >Connect with me 🤝 </h3>
+<h3 align="center" > 
+<a href="_blank"><img width="70px"src="https://github.com/LiMaKen/LiMaKen/blob/main/assets/gifs/vn.svg"/></a>
+Connect with me 🤝 </h3>
 
 <p align="center">
 
@@ -65,9 +67,5 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=LiMaKen&color=brightgreen" alt="watching_count" />
  </p>
-
-<p align="center">
-  <a href="http://forthebadge.com/"><img width="70px"src="https://github.com/LiMaKen/LiMaKen/blob/main/assets/gifs/vn.svg"/></a>
-</p>
 
 
