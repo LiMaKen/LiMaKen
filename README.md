@@ -8,7 +8,8 @@
 <p align="center">
   <br><img src="https://github.com/LiMaKen/LiMaKen/blob/daf73f64f059bef086f510436852f6a96f560054/assets/gifs/snake.svg" width="450px">
 </p>
- <h2 align="center">⚙️ &nbsp;Skills</h2>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
   <h3 align="center">❗ &nbsp;Languages</h3> 
   <p align="center">
@@ -30,11 +31,6 @@
     <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="VS"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="VS Code"/>
    </p> 
-
-
-
-
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
