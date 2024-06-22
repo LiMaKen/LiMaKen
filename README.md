@@ -58,9 +58,14 @@
       </div>
 
 </p>
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+       <img src="https://komarev.com/ghpvc/?username=LiMaKen&color=brightgreen" alt="watching_count" />
+</p>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=LiMaKen&color=brightgreen" alt="watching_count" />
+
 <a href="_blank"><img width="70px"src="https://github.com/LiMaKen/LiMaKen/blob/main/assets/gifs/vn.svg"/></a>
  </p>
 
