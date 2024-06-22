@@ -1,12 +1,12 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=23&duration=5003&pause=1000&color=7B04F7&background=FF537800&center=true&vCenter=true&width=435&lines=Hi+%2C+I%27m+LiMaKen+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=23&duration=5003&pause=1000&color=7B04F7&background=FF537800&center=true&vCenter=true&width=435&lines=Hi+%2C+I%27m+Hove+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <br><img src="https://github.com/LiMaKen/LiMaKen/blob/d3dc2a569a7690590a2518a36599a1e172973b43/assets/gifs/developer.gif" width="450px">
 </p>
 
 <p align="center">
-  <br><img src="https://github.com/LiMaKen/LiMaKen/blob/f56bb5ed817e3ec4125fd3b0cf0afa6513517d89/assets/gifs/snake.svg" width="450px">
+  <br><img src="https://github.com/LiMaKen/LiMaKen/blob/daf73f64f059bef086f510436852f6a96f560054/assets/gifs/snake.svg" width="450px">
 </p>
  <h2 align="center">⚙️ &nbsp;Skills</h2>
 
@@ -36,19 +36,35 @@
 
 
 
- <p align="center">
-<a href="https://github.com/LiMaKen">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LiMaKen&show_icons=true&theme=react&include_all_commits=true&locale=vi"/>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=LiMaKen&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LiMaKen&theme=dracula&hide_border=false)
+	
 </a>
-</p>
+</div>
 
 -----
 
-### <p align="center">👀 &nbsp;Number of visitors</p>
-<br>
+<h3 align="center" >Connect with me 🤝 </h3>
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/LiMaKen/count.svg" />
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/LiMaKen">
+		    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="mailto:">
+		    <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+      </div>
+
 </p>
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=LiMaKen&color=brightgreen" alt="watching_count" />
+ </p>
 
 <p align="center">
   <a href="http://forthebadge.com/"><img width="70px"src="https://github.com/LiMaKen/LiMaKen/blob/main/assets/gifs/vn.svg"/></a>
