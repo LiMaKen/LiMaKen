@@ -21,7 +21,8 @@
 <p align="center">
    <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
    <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40" height="40" alt="reactjs" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="40" height="40" alt="reactjs" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Light.svg" width="40" height="40" alt="reactjs" />
      </p> 
   <h3 align="center">❗ &nbsp;Softwares and Tools</h3> 
   <p align="center">
